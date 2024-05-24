@@ -1,2 +1,3 @@
-# projeto_mostrar_ou_ocultar_a_senha_com_javascript
-Projeto desenvolvido em HTML, CSS e JS
+# Projeto desenvolvido em HTML, CSS e JS
+
+Funcionalidade de mostrar/esconder senha ao clicar o ícone de 'olho'.
